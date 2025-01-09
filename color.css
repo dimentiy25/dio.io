@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+   
+}
+.page{
+    max-width: 1600px;
+    min-height: 100vh;
+    margin:0 auto;
+    padding: 50px 150px;
+    background-color: rgb(215, 249, 250);
+
+}
+.box{
+    background-image: url("/img/denta.jpg");
+    width: 700px;
+    height: 390px;
+   border-radius: 20px;
+}
+.title{
+    margin-bottom: 50px;
+    color:rgb(44, 90, 131);
+    font-size: 40px;
+    text-align: center;
+}
+.text{
+    font-size: 30px;
+    line-height: 1;
+    text-align: justify;
+    font-family: 'Arial Narrow'sans-serif;
+}
+.box{
+    float:left;
+    margin: 0px 50px 0px 0px;
+}
+p{
+    margin-bottom:10px;
+    font-size: 30px;
+}
+h1{
+  
+    color:rgb(44, 90, 131);
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    color:rgb(44, 90, 131);
+    font-size: 30px;
+    text-align: center;
+}
+.zub{
+    
+    color:rgb(30, 57, 82);
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    font-size: 27px;
+}
+.boxi{
+    background-image: url("/img/bazeze.jpg");
+    width: 1300px;
+    height: 850px;
+    border-radius: 20px;
+}
+.boxil{
+    background-image: url("/img/interfase.jpg");
+    width: 1270px;
+    height: 700px;
+    border-radius: 25px;
+}
